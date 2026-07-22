@@ -11,7 +11,7 @@ Built for the **ioBroker Lovelace adapter**, and also runs in **Home Assistant**
 > *Add card* picker as **“Enhanced Entities Card”**.
 
 <p align="center">
-  <img src="screenshots/image.png" alt="Enhanced Entities Card — rendered example" width="260">
+  <img src="screenshots/image6.png" alt="Enhanced Entities Card — rendered example" width="260">
 </p>
 
 <p align="center">
